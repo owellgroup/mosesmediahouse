@@ -47,7 +47,7 @@ export default function Header() {
               className="flex items-center space-x-2 bg-yellow-400 hover:bg-yellow-500 text-black px-4 py-2 rounded-full font-semibold transition-all duration-300 hover:scale-105 animate-pulse"
             >
               <Phone className="h-4 w-4 animate-bounce" />
-              <span>26481 342 3895</span>
+              <span>+264 81 342 3895</span>
             </a>
           </nav>
 
@@ -84,7 +84,7 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 <Phone className="h-4 w-4" />
-                <span>26481 342 3895</span>
+                <span>+264 81 342 3895</span>
               </a>
             </div>
           </div>
